@@ -1,0 +1,3 @@
+Trial,targetP_1,targetP_2,targetP_3,targetP_4,probeP_list,condition,mask,stim_size,load,correct_resp,target_ntarget,imagegroup,targetpos,matcharrow
+12,stimuli/fractals_abstracts_stimuli_101/11.png,stimuli/fractals_abstracts_stimuli_101/0.png,stimuli/fractals_abstracts_stimuli_101/0.png,stimuli/fractals_abstracts_stimuli_101/0.png,stimuli/fractals_abstracts_stimuli_101/11.png,fractals,0,0.15,1,1,1,0,1,{LEFTARROW}
+33,stimuli/fractals_abstracts_stimuli_101/2.png,stimuli/fractals_abstracts_stimuli_101/52.png,stimuli/fractals_abstracts_stimuli_101/27.png,stimuli/fractals_abstracts_stimuli_101/77.png,stimuli/fractals_abstracts_stimuli_101/22.png,fractals,0,0.15,4,2,0,0,0,{RIGHTARROW}
