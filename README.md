@@ -1,7 +1,7 @@
 ### Instructions
 
 #### 1. Download PsychoPy 2024.2.4 — ensure you use **this version**, otherwise the task might break  
-- 🔗 [Download link](https://github.com/psychopy/psychopy/releases/tag/2024.2.4)  
+- 🔗 <a href="https://github.com/psychopy/psychopy/releases/tag/2024.2.4" target="_blank" rel="noopener noreferrer">Download link</a>
 - **MacOS**: `StandalonePsychoPy-2024.2.4-macOS-3.10.dmg`  
 - **Windows**: `StandalonePsychoPy-2024.2.4-win64-3.10.exe`  
 
