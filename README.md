@@ -5,7 +5,7 @@
 - **MacOS**: `StandalonePsychoPy-2024.2.4-macOS-3.10.dmg`  
 - **Windows**: `StandalonePsychoPy-2024.2.4-win64-3.10.exe`  
 
-#### 2. Download everything from this repository into a folder on your Desktop  
+#### 2. Download this repository into a folder on your Desktop  
 
 #### 3. Complete **2 runs per day** for **5 days**, if possible  
 
