@@ -1,0 +1,815 @@
+{
+    "image_pool": [
+        "stimuli/fractals_abstracts_stimuli_101/0.png",
+        "stimuli/fractals_abstracts_stimuli_101/1.png",
+        "stimuli/fractals_abstracts_stimuli_101/2.png",
+        "stimuli/fractals_abstracts_stimuli_101/3.png",
+        "stimuli/fractals_abstracts_stimuli_101/4.png",
+        "stimuli/fractals_abstracts_stimuli_101/5.png",
+        "stimuli/fractals_abstracts_stimuli_101/6.png",
+        "stimuli/fractals_abstracts_stimuli_101/7.png",
+        "stimuli/fractals_abstracts_stimuli_101/8.png",
+        "stimuli/fractals_abstracts_stimuli_101/9.png",
+        "stimuli/fractals_abstracts_stimuli_101/10.png",
+        "stimuli/fractals_abstracts_stimuli_101/11.png",
+        "stimuli/fractals_abstracts_stimuli_101/12.png",
+        "stimuli/fractals_abstracts_stimuli_101/13.png",
+        "stimuli/fractals_abstracts_stimuli_101/14.png",
+        "stimuli/fractals_abstracts_stimuli_101/15.png",
+        "stimuli/fractals_abstracts_stimuli_101/16.png",
+        "stimuli/fractals_abstracts_stimuli_101/17.png",
+        "stimuli/fractals_abstracts_stimuli_101/18.png",
+        "stimuli/fractals_abstracts_stimuli_101/19.png",
+        "stimuli/fractals_abstracts_stimuli_101/20.png",
+        "stimuli/fractals_abstracts_stimuli_101/21.png",
+        "stimuli/fractals_abstracts_stimuli_101/22.png",
+        "stimuli/fractals_abstracts_stimuli_101/23.png",
+        "stimuli/fractals_abstracts_stimuli_101/24.png",
+        "stimuli/fractals_abstracts_stimuli_101/25.png",
+        "stimuli/fractals_abstracts_stimuli_101/26.png",
+        "stimuli/fractals_abstracts_stimuli_101/27.png",
+        "stimuli/fractals_abstracts_stimuli_101/28.png",
+        "stimuli/fractals_abstracts_stimuli_101/29.png",
+        "stimuli/fractals_abstracts_stimuli_101/30.png",
+        "stimuli/fractals_abstracts_stimuli_101/31.png",
+        "stimuli/fractals_abstracts_stimuli_101/32.png",
+        "stimuli/fractals_abstracts_stimuli_101/33.png",
+        "stimuli/fractals_abstracts_stimuli_101/34.png",
+        "stimuli/fractals_abstracts_stimuli_101/35.png",
+        "stimuli/fractals_abstracts_stimuli_101/36.png",
+        "stimuli/fractals_abstracts_stimuli_101/37.png",
+        "stimuli/fractals_abstracts_stimuli_101/38.png",
+        "stimuli/fractals_abstracts_stimuli_101/39.png",
+        "stimuli/fractals_abstracts_stimuli_101/40.png",
+        "stimuli/fractals_abstracts_stimuli_101/41.png",
+        "stimuli/fractals_abstracts_stimuli_101/42.png",
+        "stimuli/fractals_abstracts_stimuli_101/43.png",
+        "stimuli/fractals_abstracts_stimuli_101/44.png",
+        "stimuli/fractals_abstracts_stimuli_101/45.png",
+        "stimuli/fractals_abstracts_stimuli_101/46.png",
+        "stimuli/fractals_abstracts_stimuli_101/47.png",
+        "stimuli/fractals_abstracts_stimuli_101/48.png",
+        "stimuli/fractals_abstracts_stimuli_101/49.png",
+        "stimuli/fractals_abstracts_stimuli_101/50.png",
+        "stimuli/fractals_abstracts_stimuli_101/51.png",
+        "stimuli/fractals_abstracts_stimuli_101/52.png",
+        "stimuli/fractals_abstracts_stimuli_101/53.png",
+        "stimuli/fractals_abstracts_stimuli_101/54.png",
+        "stimuli/fractals_abstracts_stimuli_101/55.png",
+        "stimuli/fractals_abstracts_stimuli_101/56.png",
+        "stimuli/fractals_abstracts_stimuli_101/57.png",
+        "stimuli/fractals_abstracts_stimuli_101/58.png",
+        "stimuli/fractals_abstracts_stimuli_101/59.png",
+        "stimuli/fractals_abstracts_stimuli_101/60.png",
+        "stimuli/fractals_abstracts_stimuli_101/61.png",
+        "stimuli/fractals_abstracts_stimuli_101/62.png",
+        "stimuli/fractals_abstracts_stimuli_101/63.png",
+        "stimuli/fractals_abstracts_stimuli_101/64.png",
+        "stimuli/fractals_abstracts_stimuli_101/65.png",
+        "stimuli/fractals_abstracts_stimuli_101/66.png",
+        "stimuli/fractals_abstracts_stimuli_101/67.png",
+        "stimuli/fractals_abstracts_stimuli_101/68.png",
+        "stimuli/fractals_abstracts_stimuli_101/69.png",
+        "stimuli/fractals_abstracts_stimuli_101/70.png",
+        "stimuli/fractals_abstracts_stimuli_101/71.png",
+        "stimuli/fractals_abstracts_stimuli_101/72.png",
+        "stimuli/fractals_abstracts_stimuli_101/73.png",
+        "stimuli/fractals_abstracts_stimuli_101/74.png",
+        "stimuli/fractals_abstracts_stimuli_101/75.png",
+        "stimuli/fractals_abstracts_stimuli_101/76.png",
+        "stimuli/fractals_abstracts_stimuli_101/77.png",
+        "stimuli/fractals_abstracts_stimuli_101/78.png",
+        "stimuli/fractals_abstracts_stimuli_101/79.png",
+        "stimuli/fractals_abstracts_stimuli_101/80.png",
+        "stimuli/fractals_abstracts_stimuli_101/81.png",
+        "stimuli/fractals_abstracts_stimuli_101/82.png",
+        "stimuli/fractals_abstracts_stimuli_101/83.png",
+        "stimuli/fractals_abstracts_stimuli_101/84.png",
+        "stimuli/fractals_abstracts_stimuli_101/85.png",
+        "stimuli/fractals_abstracts_stimuli_101/86.png",
+        "stimuli/fractals_abstracts_stimuli_101/87.png",
+        "stimuli/fractals_abstracts_stimuli_101/88.png",
+        "stimuli/fractals_abstracts_stimuli_101/89.png",
+        "stimuli/fractals_abstracts_stimuli_101/90.png",
+        "stimuli/fractals_abstracts_stimuli_101/91.png",
+        "stimuli/fractals_abstracts_stimuli_101/92.png",
+        "stimuli/fractals_abstracts_stimuli_101/93.png",
+        "stimuli/fractals_abstracts_stimuli_101/94.png",
+        "stimuli/fractals_abstracts_stimuli_101/95.png",
+        "stimuli/fractals_abstracts_stimuli_101/96.png",
+        "stimuli/fractals_abstracts_stimuli_101/97.png",
+        "stimuli/fractals_abstracts_stimuli_101/98.png",
+        "stimuli/fractals_abstracts_stimuli_101/99.png",
+        "stimuli/fractals_abstracts_stimuli_101/100.png",
+        "stimuli/fractals_abstracts_stimuli_101/101.png"
+    ],
+    "lure_dict": {
+        "stimuli/fractals_abstracts_stimuli_101/1.png": [
+            "stimuli/fractals_abstracts_stimuli_101/24.png",
+            "stimuli/fractals_abstracts_stimuli_101/66.png",
+            "stimuli/fractals_abstracts_stimuli_101/9.png",
+            "stimuli/fractals_abstracts_stimuli_101/3.png",
+            "stimuli/fractals_abstracts_stimuli_101/40.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/10.png": [
+            "stimuli/fractals_abstracts_stimuli_101/93.png",
+            "stimuli/fractals_abstracts_stimuli_101/92.png",
+            "stimuli/fractals_abstracts_stimuli_101/36.png",
+            "stimuli/fractals_abstracts_stimuli_101/59.png",
+            "stimuli/fractals_abstracts_stimuli_101/42.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/100.png": [
+            "stimuli/fractals_abstracts_stimuli_101/13.png",
+            "stimuli/fractals_abstracts_stimuli_101/99.png",
+            "stimuli/fractals_abstracts_stimuli_101/62.png",
+            "stimuli/fractals_abstracts_stimuli_101/89.png",
+            "stimuli/fractals_abstracts_stimuli_101/80.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/101.png": [
+            "stimuli/fractals_abstracts_stimuli_101/94.png",
+            "stimuli/fractals_abstracts_stimuli_101/98.png",
+            "stimuli/fractals_abstracts_stimuli_101/97.png",
+            "stimuli/fractals_abstracts_stimuli_101/88.png",
+            "stimuli/fractals_abstracts_stimuli_101/92.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/11.png": [
+            "stimuli/fractals_abstracts_stimuli_101/63.png",
+            "stimuli/fractals_abstracts_stimuli_101/75.png",
+            "stimuli/fractals_abstracts_stimuli_101/45.png",
+            "stimuli/fractals_abstracts_stimuli_101/19.png",
+            "stimuli/fractals_abstracts_stimuli_101/55.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/12.png": [
+            "stimuli/fractals_abstracts_stimuli_101/76.png",
+            "stimuli/fractals_abstracts_stimuli_101/29.png",
+            "stimuli/fractals_abstracts_stimuli_101/23.png",
+            "stimuli/fractals_abstracts_stimuli_101/78.png",
+            "stimuli/fractals_abstracts_stimuli_101/44.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/13.png": [
+            "stimuli/fractals_abstracts_stimuli_101/43.png",
+            "stimuli/fractals_abstracts_stimuli_101/20.png",
+            "stimuli/fractals_abstracts_stimuli_101/100.png",
+            "stimuli/fractals_abstracts_stimuli_101/46.png",
+            "stimuli/fractals_abstracts_stimuli_101/62.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/14.png": [
+            "stimuli/fractals_abstracts_stimuli_101/31.png",
+            "stimuli/fractals_abstracts_stimuli_101/67.png",
+            "stimuli/fractals_abstracts_stimuli_101/55.png",
+            "stimuli/fractals_abstracts_stimuli_101/81.png",
+            "stimuli/fractals_abstracts_stimuli_101/35.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/15.png": [
+            "stimuli/fractals_abstracts_stimuli_101/77.png",
+            "stimuli/fractals_abstracts_stimuli_101/83.png",
+            "stimuli/fractals_abstracts_stimuli_101/21.png",
+            "stimuli/fractals_abstracts_stimuli_101/28.png",
+            "stimuli/fractals_abstracts_stimuli_101/37.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/16.png": [
+            "stimuli/fractals_abstracts_stimuli_101/60.png",
+            "stimuli/fractals_abstracts_stimuli_101/85.png",
+            "stimuli/fractals_abstracts_stimuli_101/47.png",
+            "stimuli/fractals_abstracts_stimuli_101/4.png",
+            "stimuli/fractals_abstracts_stimuli_101/42.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/17.png": [
+            "stimuli/fractals_abstracts_stimuli_101/38.png",
+            "stimuli/fractals_abstracts_stimuli_101/50.png",
+            "stimuli/fractals_abstracts_stimuli_101/25.png",
+            "stimuli/fractals_abstracts_stimuli_101/29.png",
+            "stimuli/fractals_abstracts_stimuli_101/81.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/18.png": [
+            "stimuli/fractals_abstracts_stimuli_101/9.png",
+            "stimuli/fractals_abstracts_stimuli_101/41.png",
+            "stimuli/fractals_abstracts_stimuli_101/86.png",
+            "stimuli/fractals_abstracts_stimuli_101/52.png",
+            "stimuli/fractals_abstracts_stimuli_101/79.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/19.png": [
+            "stimuli/fractals_abstracts_stimuli_101/11.png",
+            "stimuli/fractals_abstracts_stimuli_101/63.png",
+            "stimuli/fractals_abstracts_stimuli_101/75.png",
+            "stimuli/fractals_abstracts_stimuli_101/48.png",
+            "stimuli/fractals_abstracts_stimuli_101/61.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/2.png": [
+            "stimuli/fractals_abstracts_stimuli_101/96.png",
+            "stimuli/fractals_abstracts_stimuli_101/84.png",
+            "stimuli/fractals_abstracts_stimuli_101/52.png",
+            "stimuli/fractals_abstracts_stimuli_101/72.png",
+            "stimuli/fractals_abstracts_stimuli_101/73.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/20.png": [
+            "stimuli/fractals_abstracts_stimuli_101/46.png",
+            "stimuli/fractals_abstracts_stimuli_101/67.png",
+            "stimuli/fractals_abstracts_stimuli_101/30.png",
+            "stimuli/fractals_abstracts_stimuli_101/27.png",
+            "stimuli/fractals_abstracts_stimuli_101/13.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/21.png": [
+            "stimuli/fractals_abstracts_stimuli_101/15.png",
+            "stimuli/fractals_abstracts_stimuli_101/37.png",
+            "stimuli/fractals_abstracts_stimuli_101/77.png",
+            "stimuli/fractals_abstracts_stimuli_101/83.png",
+            "stimuli/fractals_abstracts_stimuli_101/34.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/22.png": [
+            "stimuli/fractals_abstracts_stimuli_101/26.png",
+            "stimuli/fractals_abstracts_stimuli_101/53.png",
+            "stimuli/fractals_abstracts_stimuli_101/51.png",
+            "stimuli/fractals_abstracts_stimuli_101/45.png",
+            "stimuli/fractals_abstracts_stimuli_101/68.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/23.png": [
+            "stimuli/fractals_abstracts_stimuli_101/44.png",
+            "stimuli/fractals_abstracts_stimuli_101/54.png",
+            "stimuli/fractals_abstracts_stimuli_101/80.png",
+            "stimuli/fractals_abstracts_stimuli_101/99.png",
+            "stimuli/fractals_abstracts_stimuli_101/12.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/24.png": [
+            "stimuli/fractals_abstracts_stimuli_101/1.png",
+            "stimuli/fractals_abstracts_stimuli_101/3.png",
+            "stimuli/fractals_abstracts_stimuli_101/66.png",
+            "stimuli/fractals_abstracts_stimuli_101/9.png",
+            "stimuli/fractals_abstracts_stimuli_101/90.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/25.png": [
+            "stimuli/fractals_abstracts_stimuli_101/38.png",
+            "stimuli/fractals_abstracts_stimuli_101/50.png",
+            "stimuli/fractals_abstracts_stimuli_101/37.png",
+            "stimuli/fractals_abstracts_stimuli_101/36.png",
+            "stimuli/fractals_abstracts_stimuli_101/16.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/26.png": [
+            "stimuli/fractals_abstracts_stimuli_101/53.png",
+            "stimuli/fractals_abstracts_stimuli_101/51.png",
+            "stimuli/fractals_abstracts_stimuli_101/57.png",
+            "stimuli/fractals_abstracts_stimuli_101/68.png",
+            "stimuli/fractals_abstracts_stimuli_101/91.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/27.png": [
+            "stimuli/fractals_abstracts_stimuli_101/67.png",
+            "stimuli/fractals_abstracts_stimuli_101/55.png",
+            "stimuli/fractals_abstracts_stimuli_101/20.png",
+            "stimuli/fractals_abstracts_stimuli_101/63.png",
+            "stimuli/fractals_abstracts_stimuli_101/11.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/28.png": [
+            "stimuli/fractals_abstracts_stimuli_101/77.png",
+            "stimuli/fractals_abstracts_stimuli_101/83.png",
+            "stimuli/fractals_abstracts_stimuli_101/15.png",
+            "stimuli/fractals_abstracts_stimuli_101/37.png",
+            "stimuli/fractals_abstracts_stimuli_101/40.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/29.png": [
+            "stimuli/fractals_abstracts_stimuli_101/49.png",
+            "stimuli/fractals_abstracts_stimuli_101/47.png",
+            "stimuli/fractals_abstracts_stimuli_101/50.png",
+            "stimuli/fractals_abstracts_stimuli_101/78.png",
+            "stimuli/fractals_abstracts_stimuli_101/76.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/3.png": [
+            "stimuli/fractals_abstracts_stimuli_101/24.png",
+            "stimuli/fractals_abstracts_stimuli_101/1.png",
+            "stimuli/fractals_abstracts_stimuli_101/69.png",
+            "stimuli/fractals_abstracts_stimuli_101/66.png",
+            "stimuli/fractals_abstracts_stimuli_101/90.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/30.png": [
+            "stimuli/fractals_abstracts_stimuli_101/20.png",
+            "stimuli/fractals_abstracts_stimuli_101/31.png",
+            "stimuli/fractals_abstracts_stimuli_101/67.png",
+            "stimuli/fractals_abstracts_stimuli_101/43.png",
+            "stimuli/fractals_abstracts_stimuli_101/46.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/31.png": [
+            "stimuli/fractals_abstracts_stimuli_101/14.png",
+            "stimuli/fractals_abstracts_stimuli_101/67.png",
+            "stimuli/fractals_abstracts_stimuli_101/30.png",
+            "stimuli/fractals_abstracts_stimuli_101/20.png",
+            "stimuli/fractals_abstracts_stimuli_101/46.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/32.png": [
+            "stimuli/fractals_abstracts_stimuli_101/35.png",
+            "stimuli/fractals_abstracts_stimuli_101/14.png",
+            "stimuli/fractals_abstracts_stimuli_101/31.png",
+            "stimuli/fractals_abstracts_stimuli_101/76.png",
+            "stimuli/fractals_abstracts_stimuli_101/81.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/33.png": [
+            "stimuli/fractals_abstracts_stimuli_101/48.png",
+            "stimuli/fractals_abstracts_stimuli_101/61.png",
+            "stimuli/fractals_abstracts_stimuli_101/38.png",
+            "stimuli/fractals_abstracts_stimuli_101/21.png",
+            "stimuli/fractals_abstracts_stimuli_101/64.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/34.png": [
+            "stimuli/fractals_abstracts_stimuli_101/21.png",
+            "stimuli/fractals_abstracts_stimuli_101/71.png",
+            "stimuli/fractals_abstracts_stimuli_101/37.png",
+            "stimuli/fractals_abstracts_stimuli_101/15.png",
+            "stimuli/fractals_abstracts_stimuli_101/39.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/35.png": [
+            "stimuli/fractals_abstracts_stimuli_101/32.png",
+            "stimuli/fractals_abstracts_stimuli_101/14.png",
+            "stimuli/fractals_abstracts_stimuli_101/31.png",
+            "stimuli/fractals_abstracts_stimuli_101/81.png",
+            "stimuli/fractals_abstracts_stimuli_101/76.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/36.png": [
+            "stimuli/fractals_abstracts_stimuli_101/42.png",
+            "stimuli/fractals_abstracts_stimuli_101/59.png",
+            "stimuli/fractals_abstracts_stimuli_101/79.png",
+            "stimuli/fractals_abstracts_stimuli_101/10.png",
+            "stimuli/fractals_abstracts_stimuli_101/16.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/37.png": [
+            "stimuli/fractals_abstracts_stimuli_101/21.png",
+            "stimuli/fractals_abstracts_stimuli_101/15.png",
+            "stimuli/fractals_abstracts_stimuli_101/25.png",
+            "stimuli/fractals_abstracts_stimuli_101/28.png",
+            "stimuli/fractals_abstracts_stimuli_101/77.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/38.png": [
+            "stimuli/fractals_abstracts_stimuli_101/25.png",
+            "stimuli/fractals_abstracts_stimuli_101/17.png",
+            "stimuli/fractals_abstracts_stimuli_101/50.png",
+            "stimuli/fractals_abstracts_stimuli_101/37.png",
+            "stimuli/fractals_abstracts_stimuli_101/47.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/39.png": [
+            "stimuli/fractals_abstracts_stimuli_101/71.png",
+            "stimuli/fractals_abstracts_stimuli_101/34.png",
+            "stimuli/fractals_abstracts_stimuli_101/21.png",
+            "stimuli/fractals_abstracts_stimuli_101/8.png",
+            "stimuli/fractals_abstracts_stimuli_101/33.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/4.png": [
+            "stimuli/fractals_abstracts_stimuli_101/74.png",
+            "stimuli/fractals_abstracts_stimuli_101/58.png",
+            "stimuli/fractals_abstracts_stimuli_101/56.png",
+            "stimuli/fractals_abstracts_stimuli_101/85.png",
+            "stimuli/fractals_abstracts_stimuli_101/60.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/40.png": [
+            "stimuli/fractals_abstracts_stimuli_101/64.png",
+            "stimuli/fractals_abstracts_stimuli_101/66.png",
+            "stimuli/fractals_abstracts_stimuli_101/28.png",
+            "stimuli/fractals_abstracts_stimuli_101/9.png",
+            "stimuli/fractals_abstracts_stimuli_101/59.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/41.png": [
+            "stimuli/fractals_abstracts_stimuli_101/86.png",
+            "stimuli/fractals_abstracts_stimuli_101/79.png",
+            "stimuli/fractals_abstracts_stimuli_101/73.png",
+            "stimuli/fractals_abstracts_stimuli_101/59.png",
+            "stimuli/fractals_abstracts_stimuli_101/56.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/42.png": [
+            "stimuli/fractals_abstracts_stimuli_101/36.png",
+            "stimuli/fractals_abstracts_stimuli_101/79.png",
+            "stimuli/fractals_abstracts_stimuli_101/59.png",
+            "stimuli/fractals_abstracts_stimuli_101/10.png",
+            "stimuli/fractals_abstracts_stimuli_101/97.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/43.png": [
+            "stimuli/fractals_abstracts_stimuli_101/13.png",
+            "stimuli/fractals_abstracts_stimuli_101/20.png",
+            "stimuli/fractals_abstracts_stimuli_101/30.png",
+            "stimuli/fractals_abstracts_stimuli_101/46.png",
+            "stimuli/fractals_abstracts_stimuli_101/82.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/44.png": [
+            "stimuli/fractals_abstracts_stimuli_101/23.png",
+            "stimuli/fractals_abstracts_stimuli_101/55.png",
+            "stimuli/fractals_abstracts_stimuli_101/54.png",
+            "stimuli/fractals_abstracts_stimuli_101/12.png",
+            "stimuli/fractals_abstracts_stimuli_101/45.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/45.png": [
+            "stimuli/fractals_abstracts_stimuli_101/51.png",
+            "stimuli/fractals_abstracts_stimuli_101/75.png",
+            "stimuli/fractals_abstracts_stimuli_101/63.png",
+            "stimuli/fractals_abstracts_stimuli_101/11.png",
+            "stimuli/fractals_abstracts_stimuli_101/7.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/46.png": [
+            "stimuli/fractals_abstracts_stimuli_101/20.png",
+            "stimuli/fractals_abstracts_stimuli_101/67.png",
+            "stimuli/fractals_abstracts_stimuli_101/55.png",
+            "stimuli/fractals_abstracts_stimuli_101/14.png",
+            "stimuli/fractals_abstracts_stimuli_101/31.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/47.png": [
+            "stimuli/fractals_abstracts_stimuli_101/49.png",
+            "stimuli/fractals_abstracts_stimuli_101/50.png",
+            "stimuli/fractals_abstracts_stimuli_101/60.png",
+            "stimuli/fractals_abstracts_stimuli_101/29.png",
+            "stimuli/fractals_abstracts_stimuli_101/16.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/48.png": [
+            "stimuli/fractals_abstracts_stimuli_101/61.png",
+            "stimuli/fractals_abstracts_stimuli_101/33.png",
+            "stimuli/fractals_abstracts_stimuli_101/38.png",
+            "stimuli/fractals_abstracts_stimuli_101/74.png",
+            "stimuli/fractals_abstracts_stimuli_101/58.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/49.png": [
+            "stimuli/fractals_abstracts_stimuli_101/47.png",
+            "stimuli/fractals_abstracts_stimuli_101/60.png",
+            "stimuli/fractals_abstracts_stimuli_101/29.png",
+            "stimuli/fractals_abstracts_stimuli_101/78.png",
+            "stimuli/fractals_abstracts_stimuli_101/50.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/5.png": [
+            "stimuli/fractals_abstracts_stimuli_101/7.png",
+            "stimuli/fractals_abstracts_stimuli_101/68.png",
+            "stimuli/fractals_abstracts_stimuli_101/72.png",
+            "stimuli/fractals_abstracts_stimuli_101/56.png",
+            "stimuli/fractals_abstracts_stimuli_101/51.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/50.png": [
+            "stimuli/fractals_abstracts_stimuli_101/47.png",
+            "stimuli/fractals_abstracts_stimuli_101/29.png",
+            "stimuli/fractals_abstracts_stimuli_101/49.png",
+            "stimuli/fractals_abstracts_stimuli_101/25.png",
+            "stimuli/fractals_abstracts_stimuli_101/16.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/51.png": [
+            "stimuli/fractals_abstracts_stimuli_101/53.png",
+            "stimuli/fractals_abstracts_stimuli_101/45.png",
+            "stimuli/fractals_abstracts_stimuli_101/57.png",
+            "stimuli/fractals_abstracts_stimuli_101/68.png",
+            "stimuli/fractals_abstracts_stimuli_101/26.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/52.png": [
+            "stimuli/fractals_abstracts_stimuli_101/73.png",
+            "stimuli/fractals_abstracts_stimuli_101/86.png",
+            "stimuli/fractals_abstracts_stimuli_101/41.png",
+            "stimuli/fractals_abstracts_stimuli_101/88.png",
+            "stimuli/fractals_abstracts_stimuli_101/72.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/53.png": [
+            "stimuli/fractals_abstracts_stimuli_101/57.png",
+            "stimuli/fractals_abstracts_stimuli_101/51.png",
+            "stimuli/fractals_abstracts_stimuli_101/26.png",
+            "stimuli/fractals_abstracts_stimuli_101/68.png",
+            "stimuli/fractals_abstracts_stimuli_101/91.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/54.png": [
+            "stimuli/fractals_abstracts_stimuli_101/80.png",
+            "stimuli/fractals_abstracts_stimuli_101/99.png",
+            "stimuli/fractals_abstracts_stimuli_101/23.png",
+            "stimuli/fractals_abstracts_stimuli_101/91.png",
+            "stimuli/fractals_abstracts_stimuli_101/95.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/55.png": [
+            "stimuli/fractals_abstracts_stimuli_101/67.png",
+            "stimuli/fractals_abstracts_stimuli_101/27.png",
+            "stimuli/fractals_abstracts_stimuli_101/44.png",
+            "stimuli/fractals_abstracts_stimuli_101/14.png",
+            "stimuli/fractals_abstracts_stimuli_101/46.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/56.png": [
+            "stimuli/fractals_abstracts_stimuli_101/58.png",
+            "stimuli/fractals_abstracts_stimuli_101/4.png",
+            "stimuli/fractals_abstracts_stimuli_101/7.png",
+            "stimuli/fractals_abstracts_stimuli_101/85.png",
+            "stimuli/fractals_abstracts_stimuli_101/41.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/57.png": [
+            "stimuli/fractals_abstracts_stimuli_101/53.png",
+            "stimuli/fractals_abstracts_stimuli_101/51.png",
+            "stimuli/fractals_abstracts_stimuli_101/91.png",
+            "stimuli/fractals_abstracts_stimuli_101/68.png",
+            "stimuli/fractals_abstracts_stimuli_101/54.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/58.png": [
+            "stimuli/fractals_abstracts_stimuli_101/4.png",
+            "stimuli/fractals_abstracts_stimuli_101/56.png",
+            "stimuli/fractals_abstracts_stimuli_101/74.png",
+            "stimuli/fractals_abstracts_stimuli_101/16.png",
+            "stimuli/fractals_abstracts_stimuli_101/85.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/59.png": [
+            "stimuli/fractals_abstracts_stimuli_101/79.png",
+            "stimuli/fractals_abstracts_stimuli_101/36.png",
+            "stimuli/fractals_abstracts_stimuli_101/42.png",
+            "stimuli/fractals_abstracts_stimuli_101/10.png",
+            "stimuli/fractals_abstracts_stimuli_101/41.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/6.png": [
+            "stimuli/fractals_abstracts_stimuli_101/78.png",
+            "stimuli/fractals_abstracts_stimuli_101/101.png",
+            "stimuli/fractals_abstracts_stimuli_101/97.png",
+            "stimuli/fractals_abstracts_stimuli_101/12.png",
+            "stimuli/fractals_abstracts_stimuli_101/94.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/60.png": [
+            "stimuli/fractals_abstracts_stimuli_101/85.png",
+            "stimuli/fractals_abstracts_stimuli_101/49.png",
+            "stimuli/fractals_abstracts_stimuli_101/47.png",
+            "stimuli/fractals_abstracts_stimuli_101/74.png",
+            "stimuli/fractals_abstracts_stimuli_101/16.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/61.png": [
+            "stimuli/fractals_abstracts_stimuli_101/48.png",
+            "stimuli/fractals_abstracts_stimuli_101/58.png",
+            "stimuli/fractals_abstracts_stimuli_101/33.png",
+            "stimuli/fractals_abstracts_stimuli_101/74.png",
+            "stimuli/fractals_abstracts_stimuli_101/4.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/62.png": [
+            "stimuli/fractals_abstracts_stimuli_101/13.png",
+            "stimuli/fractals_abstracts_stimuli_101/100.png",
+            "stimuli/fractals_abstracts_stimuli_101/82.png",
+            "stimuli/fractals_abstracts_stimuli_101/43.png",
+            "stimuli/fractals_abstracts_stimuli_101/20.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/63.png": [
+            "stimuli/fractals_abstracts_stimuli_101/11.png",
+            "stimuli/fractals_abstracts_stimuli_101/75.png",
+            "stimuli/fractals_abstracts_stimuli_101/45.png",
+            "stimuli/fractals_abstracts_stimuli_101/44.png",
+            "stimuli/fractals_abstracts_stimuli_101/27.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/64.png": [
+            "stimuli/fractals_abstracts_stimuli_101/40.png",
+            "stimuli/fractals_abstracts_stimuli_101/66.png",
+            "stimuli/fractals_abstracts_stimuli_101/9.png",
+            "stimuli/fractals_abstracts_stimuli_101/28.png",
+            "stimuli/fractals_abstracts_stimuli_101/1.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/65.png": [
+            "stimuli/fractals_abstracts_stimuli_101/19.png",
+            "stimuli/fractals_abstracts_stimuli_101/48.png",
+            "stimuli/fractals_abstracts_stimuli_101/33.png",
+            "stimuli/fractals_abstracts_stimuli_101/61.png",
+            "stimuli/fractals_abstracts_stimuli_101/75.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/66.png": [
+            "stimuli/fractals_abstracts_stimuli_101/40.png",
+            "stimuli/fractals_abstracts_stimuli_101/1.png",
+            "stimuli/fractals_abstracts_stimuli_101/64.png",
+            "stimuli/fractals_abstracts_stimuli_101/24.png",
+            "stimuli/fractals_abstracts_stimuli_101/87.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/67.png": [
+            "stimuli/fractals_abstracts_stimuli_101/55.png",
+            "stimuli/fractals_abstracts_stimuli_101/27.png",
+            "stimuli/fractals_abstracts_stimuli_101/20.png",
+            "stimuli/fractals_abstracts_stimuli_101/14.png",
+            "stimuli/fractals_abstracts_stimuli_101/46.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/68.png": [
+            "stimuli/fractals_abstracts_stimuli_101/5.png",
+            "stimuli/fractals_abstracts_stimuli_101/7.png",
+            "stimuli/fractals_abstracts_stimuli_101/53.png",
+            "stimuli/fractals_abstracts_stimuli_101/51.png",
+            "stimuli/fractals_abstracts_stimuli_101/57.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/69.png": [
+            "stimuli/fractals_abstracts_stimuli_101/3.png",
+            "stimuli/fractals_abstracts_stimuli_101/24.png",
+            "stimuli/fractals_abstracts_stimuli_101/1.png",
+            "stimuli/fractals_abstracts_stimuli_101/90.png",
+            "stimuli/fractals_abstracts_stimuli_101/52.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/7.png": [
+            "stimuli/fractals_abstracts_stimuli_101/5.png",
+            "stimuli/fractals_abstracts_stimuli_101/68.png",
+            "stimuli/fractals_abstracts_stimuli_101/56.png",
+            "stimuli/fractals_abstracts_stimuli_101/72.png",
+            "stimuli/fractals_abstracts_stimuli_101/4.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/70.png": [
+            "stimuli/fractals_abstracts_stimuli_101/83.png",
+            "stimuli/fractals_abstracts_stimuli_101/77.png",
+            "stimuli/fractals_abstracts_stimuli_101/28.png",
+            "stimuli/fractals_abstracts_stimuli_101/15.png",
+            "stimuli/fractals_abstracts_stimuli_101/66.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/71.png": [
+            "stimuli/fractals_abstracts_stimuli_101/34.png",
+            "stimuli/fractals_abstracts_stimuli_101/39.png",
+            "stimuli/fractals_abstracts_stimuli_101/8.png",
+            "stimuli/fractals_abstracts_stimuli_101/21.png",
+            "stimuli/fractals_abstracts_stimuli_101/15.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/72.png": [
+            "stimuli/fractals_abstracts_stimuli_101/5.png",
+            "stimuli/fractals_abstracts_stimuli_101/7.png",
+            "stimuli/fractals_abstracts_stimuli_101/68.png",
+            "stimuli/fractals_abstracts_stimuli_101/56.png",
+            "stimuli/fractals_abstracts_stimuli_101/73.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/73.png": [
+            "stimuli/fractals_abstracts_stimuli_101/86.png",
+            "stimuli/fractals_abstracts_stimuli_101/41.png",
+            "stimuli/fractals_abstracts_stimuli_101/52.png",
+            "stimuli/fractals_abstracts_stimuli_101/88.png",
+            "stimuli/fractals_abstracts_stimuli_101/56.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/74.png": [
+            "stimuli/fractals_abstracts_stimuli_101/4.png",
+            "stimuli/fractals_abstracts_stimuli_101/60.png",
+            "stimuli/fractals_abstracts_stimuli_101/58.png",
+            "stimuli/fractals_abstracts_stimuli_101/85.png",
+            "stimuli/fractals_abstracts_stimuli_101/16.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/75.png": [
+            "stimuli/fractals_abstracts_stimuli_101/63.png",
+            "stimuli/fractals_abstracts_stimuli_101/11.png",
+            "stimuli/fractals_abstracts_stimuli_101/45.png",
+            "stimuli/fractals_abstracts_stimuli_101/74.png",
+            "stimuli/fractals_abstracts_stimuli_101/51.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/76.png": [
+            "stimuli/fractals_abstracts_stimuli_101/12.png",
+            "stimuli/fractals_abstracts_stimuli_101/29.png",
+            "stimuli/fractals_abstracts_stimuli_101/78.png",
+            "stimuli/fractals_abstracts_stimuli_101/23.png",
+            "stimuli/fractals_abstracts_stimuli_101/49.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/77.png": [
+            "stimuli/fractals_abstracts_stimuli_101/83.png",
+            "stimuli/fractals_abstracts_stimuli_101/15.png",
+            "stimuli/fractals_abstracts_stimuli_101/28.png",
+            "stimuli/fractals_abstracts_stimuli_101/21.png",
+            "stimuli/fractals_abstracts_stimuli_101/37.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/78.png": [
+            "4stimuli/fractals_abstracts_stimuli_101/9.png",
+            "stimuli/fractals_abstracts_stimuli_101/29.png",
+            "stimuli/fractals_abstracts_stimuli_101/47.png",
+            "stimuli/fractals_abstracts_stimuli_101/60.png",
+            "stimuli/fractals_abstracts_stimuli_101/85.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/79.png": [
+            "stimuli/fractals_abstracts_stimuli_101/59.png",
+            "stimuli/fractals_abstracts_stimuli_101/42.png",
+            "stimuli/fractals_abstracts_stimuli_101/36.png",
+            "stimuli/fractals_abstracts_stimuli_101/41.png",
+            "stimuli/fractals_abstracts_stimuli_101/16.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/8.png": [
+            "stimuli/fractals_abstracts_stimuli_101/83.png",
+            "stimuli/fractals_abstracts_stimuli_101/15.png",
+            "stimuli/fractals_abstracts_stimuli_101/77.png",
+            "stimuli/fractals_abstracts_stimuli_101/21.png",
+            "stimuli/fractals_abstracts_stimuli_101/34.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/80.png": [
+            "stimuli/fractals_abstracts_stimuli_101/54.png",
+            "stimuli/fractals_abstracts_stimuli_101/95.png",
+            "stimuli/fractals_abstracts_stimuli_101/91.png",
+            "stimuli/fractals_abstracts_stimuli_101/99.png",
+            "stimuli/fractals_abstracts_stimuli_101/23.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/81.png": [
+            "stimuli/fractals_abstracts_stimuli_101/14.png",
+            "stimuli/fractals_abstracts_stimuli_101/76.png",
+            "stimuli/fractals_abstracts_stimuli_101/29.png",
+            "stimuli/fractals_abstracts_stimuli_101/12.png",
+            "stimuli/fractals_abstracts_stimuli_101/55.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/82.png": [
+            "stimuli/fractals_abstracts_stimuli_101/30.png",
+            "stimuli/fractals_abstracts_stimuli_101/43.png",
+            "stimuli/fractals_abstracts_stimuli_101/13.png",
+            "stimuli/fractals_abstracts_stimuli_101/20.png",
+            "stimuli/fractals_abstracts_stimuli_101/62.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/83.png": [
+            "stimuli/fractals_abstracts_stimuli_101/77.png",
+            "stimuli/fractals_abstracts_stimuli_101/15.png",
+            "stimuli/fractals_abstracts_stimuli_101/21.png",
+            "stimuli/fractals_abstracts_stimuli_101/28.png",
+            "stimuli/fractals_abstracts_stimuli_101/8.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/84.png": [
+            "stimuli/fractals_abstracts_stimuli_101/2.png",
+            "stimuli/fractals_abstracts_stimuli_101/72.png",
+            "stimuli/fractals_abstracts_stimuli_101/5.png",
+            "stimuli/fractals_abstracts_stimuli_101/52.png",
+            "stimuli/fractals_abstracts_stimuli_101/22.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/85.png": [
+            "stimuli/fractals_abstracts_stimuli_101/60.png",
+            "stimuli/fractals_abstracts_stimuli_101/4.png",
+            "stimuli/fractals_abstracts_stimuli_101/16.png",
+            "stimuli/fractals_abstracts_stimuli_101/74.png",
+            "stimuli/fractals_abstracts_stimuli_101/49.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/86.png": [
+            "stimuli/fractals_abstracts_stimuli_101/41.png",
+            "stimuli/fractals_abstracts_stimuli_101/73.png",
+            "stimuli/fractals_abstracts_stimuli_101/10.png",
+            "stimuli/fractals_abstracts_stimuli_101/52.png",
+            "stimuli/fractals_abstracts_stimuli_101/59.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/87.png": [
+            "stimuli/fractals_abstracts_stimuli_101/93.png",
+            "stimuli/fractals_abstracts_stimuli_101/10.png",
+            "stimuli/fractals_abstracts_stimuli_101/92.png",
+            "stimuli/fractals_abstracts_stimuli_101/59.png",
+            "stimuli/fractals_abstracts_stimuli_101/66.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/88.png": [
+            "stimuli/fractals_abstracts_stimuli_101/92.png",
+            "stimuli/fractals_abstracts_stimuli_101/73.png",
+            "stimuli/fractals_abstracts_stimuli_101/93.png",
+            "stimuli/fractals_abstracts_stimuli_101/90.png",
+            "stimuli/fractals_abstracts_stimuli_101/101.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/89.png": [
+            "stimuli/fractals_abstracts_stimuli_101/95.png",
+            "stimuli/fractals_abstracts_stimuli_101/91.png",
+            "stimuli/fractals_abstracts_stimuli_101/80.png",
+            "stimuli/fractals_abstracts_stimuli_101/99.png",
+            "stimuli/fractals_abstracts_stimuli_101/54.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/9.png": [
+            "stimuli/fractals_abstracts_stimuli_101/18.png",
+            "stimuli/fractals_abstracts_stimuli_101/86.png",
+            "stimuli/fractals_abstracts_stimuli_101/1.png",
+            "stimuli/fractals_abstracts_stimuli_101/41.png",
+            "stimuli/fractals_abstracts_stimuli_101/40.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/90.png": [
+            "stimuli/fractals_abstracts_stimuli_101/88.png",
+            "stimuli/fractals_abstracts_stimuli_101/93.png",
+            "stimuli/fractals_abstracts_stimuli_101/92.png",
+            "stimuli/fractals_abstracts_stimuli_101/52.png",
+            "stimuli/fractals_abstracts_stimuli_101/86.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/91.png": [
+            "stimuli/fractals_abstracts_stimuli_101/95.png",
+            "stimuli/fractals_abstracts_stimuli_101/80.png",
+            "stimuli/fractals_abstracts_stimuli_101/54.png",
+            "stimuli/fractals_abstracts_stimuli_101/57.png",
+            "stimuli/fractals_abstracts_stimuli_101/53.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/92.png": [
+            "stimuli/fractals_abstracts_stimuli_101/93.png",
+            "stimuli/fractals_abstracts_stimuli_101/10.png",
+            "stimuli/fractals_abstracts_stimuli_101/88.png",
+            "stimuli/fractals_abstracts_stimuli_101/97.png",
+            "stimuli/fractals_abstracts_stimuli_101/87.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/93.png": [
+            "stimuli/fractals_abstracts_stimuli_101/92.png",
+            "stimuli/fractals_abstracts_stimuli_101/10.png",
+            "stimuli/fractals_abstracts_stimuli_101/87.png",
+            "stimuli/fractals_abstracts_stimuli_101/88.png",
+            "stimuli/fractals_abstracts_stimuli_101/86.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/94.png": [
+            "stimuli/fractals_abstracts_stimuli_101/98.png",
+            "stimuli/fractals_abstracts_stimuli_101/101.png",
+            "stimuli/fractals_abstracts_stimuli_101/88.png",
+            "stimuli/fractals_abstracts_stimuli_101/97.png",
+            "stimuli/fractals_abstracts_stimuli_101/68.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/95.png": [
+            "stimuli/fractals_abstracts_stimuli_101/91.png",
+            "stimuli/fractals_abstracts_stimuli_101/80.png",
+            "stimuli/fractals_abstracts_stimuli_101/89.png",
+            "stimuli/fractals_abstracts_stimuli_101/54.png",
+            "stimuli/fractals_abstracts_stimuli_101/99.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/96.png": [
+            "stimuli/fractals_abstracts_stimuli_101/2.png",
+            "stimuli/fractals_abstracts_stimuli_101/98.png",
+            "stimuli/fractals_abstracts_stimuli_101/94.png",
+            "stimuli/fractals_abstracts_stimuli_101/88.png",
+            "stimuli/fractals_abstracts_stimuli_101/52.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/97.png": [
+            "stimuli/fractals_abstracts_stimuli_101/42.png",
+            "stimuli/fractals_abstracts_stimuli_101/101.png",
+            "stimuli/fractals_abstracts_stimuli_101/36.png",
+            "stimuli/fractals_abstracts_stimuli_101/10.png",
+            "stimuli/fractals_abstracts_stimuli_101/92.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/98.png": [
+            "stimuli/fractals_abstracts_stimuli_101/94.png",
+            "stimuli/fractals_abstracts_stimuli_101/101.png",
+            "stimuli/fractals_abstracts_stimuli_101/68.png",
+            "stimuli/fractals_abstracts_stimuli_101/88.png",
+            "stimuli/fractals_abstracts_stimuli_101/57.png"
+        ],
+        "stimuli/fractals_abstracts_stimuli_101/99.png": [
+            "stimuli/fractals_abstracts_stimuli_101/80.png",
+            "stimuli/fractals_abstracts_stimuli_101/54.png",
+            "stimuli/fractals_abstracts_stimuli_101/95.png",
+            "stimuli/fractals_abstracts_stimuli_101/23.png",
+            "stimuli/fractals_abstracts_stimuli_101/91.png"
+        ]
+    }
+}
